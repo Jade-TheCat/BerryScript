@@ -1,0 +1,10 @@
+Simple syntax:
+
+<method>(<parameters>)
+
+<value> -> <variableName>(<type>)
+
+<function>(<parameters>) as <type> {
+
+}
+
